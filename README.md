@@ -1,5 +1,5 @@
 <h3> Overview </h3>
-<h4>This study aims to study the people perception on Twitter regarding COVID-19 vaccination during selected events in Saudi Arabia</h4>
+<h5>This study aims to study the people perception on Twitter regarding COVID-19 vaccination during selected events in Saudi Arabia</h5>
 
 - These events namely:
   - Lift travel ban for Saudi citizens for international flights
