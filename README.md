@@ -27,5 +27,6 @@ This study aims to find the people perception on Twitter regarding COVID-19 vacc
 
 <h3> TOOLS AND ALGORITHMS </h3>
 
+  - Tweets were collected using [TWINT](https://github.com/twintproject/twint).
   - The dataset annotation was done using [Mazajak](http://mazajak.inf.ed.ac.uk:8000/), which is online system for Arabic sentiment analysis.
-  - Two supervised machine learning algorithems were used Support vector machine (SVM) and Naïve Bayes (NB).
+  - Two supervised machine learning algorithms were used [Support vector machine (SVM)]( https://scikit-learn.org/stable/modules/svm.html) and [Naïve Bayes (NB)](https://scikit-learn.org/stable/modules/naive_bayes.html).
