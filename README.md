@@ -1,5 +1,4 @@
-
-<h3> Overview</h3>
+<h3> Overview </h3>
 <h4>This study aims to study the people perception on Twitter regarding COVID-19 vaccination during selected events in Saudi Arabia</h4>
 
 - These events namely:
@@ -10,4 +9,4 @@
   - First announcements of AstraZeneca vaccine approval
   - First appearance of India COVID-19 variant
   - First appearance of Vietnam COVID-19 variant
-  <hr>
+
