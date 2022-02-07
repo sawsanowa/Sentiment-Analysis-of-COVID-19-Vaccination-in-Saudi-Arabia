@@ -16,7 +16,8 @@ This study aims to find the people perception on Twitter regarding COVID-19 vacc
 
 <hr>
 
-- The repository contains: 
+<h3> REPOSITORY CONTENTS </h3>
+
   - Source Code + List of Stop Words ([Ref](https://countwordsfree.com/stopwords/arabic))
   - Dataset
 
