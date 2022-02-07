@@ -13,12 +13,19 @@ This study aims to find the people perception on Twitter regarding COVID-19 vacc
   - Worldwide events
     - First appearance of India COVID-19 variant.
     - First appearance of Vietnam COVID-19 variant.
+  
+
 
 <hr>
 
 <h3> REPOSITORY CONTENTS </h3>
 
-  - Source Code + List of Stop Words ([Ref](https://countwordsfree.com/stopwords/arabic))
+  - Source Code + [List of Stop Words](https://countwordsfree.com/stopwords/arabic)
   - Dataset
 
 <hr>
+
+<h3> TOOLS AND ALGORITHMS </h3>
+
+  - The dataset annotation was done using [Mazajak](http://mazajak.inf.ed.ac.uk:8000/), which is online system for Arabic sentiment analysis.
+  - Two supervised machine learning algorithems were used Support vector machine (SVM) and Naïve Bayes (NB).
