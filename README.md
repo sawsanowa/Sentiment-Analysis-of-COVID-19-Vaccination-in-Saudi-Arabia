@@ -7,12 +7,12 @@ This study aims to find the people perception on Twitter regarding COVID-19 vacc
     - Lift travel ban for Saudi citizens for international flights.
     - Return to in class attendance to all students. 
     - Making the vaccination mandatory to enter any public or private establishment. 
-    - First announcements of Pfizer vaccine approval.
-    - First announcements of AstraZeneca vaccine approval.
+    - Pfizer vaccine approval.
+    - AstraZeneca vaccine approval.
     
   - Worldwide events
-    - First appearance of India COVID-19 variant.
-    - First appearance of Vietnam COVID-19 variant.
+    - India COVID-19 variant.
+    - Vietnam COVID-19 variant.
   
 
 
