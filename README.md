@@ -1,7 +1,10 @@
-<h3> Paper </h3>
+<h3> PAPER </h3>
 
+- Title: Sentiment Analysis of COVID-19 Vaccination in Saudi Arabia 
+- Link will be provided soon..
 
 <hr>
+
 <h3> OVERVIEW </h3>
 
 This study aims to find the people perception on Twitter regarding COVID-19 vaccination during selected events in Saudi Arabia.
